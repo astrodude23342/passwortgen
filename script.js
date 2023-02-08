@@ -1,8 +1,3 @@
-// ABCDEFGHIJKLMNOPQRSTUVWXYZ
-// abcdefghijklmnopqrstuvwxyz
-// !\"$%&/()=?@~`\\.\';:+=^*_-
-// 0123456789
-
 const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!\"$%&/()=?@~`\\.\';:+=^*_-0123456789';
 let output = document.getElementById("output");
 
